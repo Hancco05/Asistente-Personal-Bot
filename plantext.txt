@@ -1,0 +1,7 @@
+asistente/
+│
+├── asistente.py
+├── requirements.txt
+├── README.md
+├── gpt_cache.json (creado automáticamente al ejecutar el script)
+└── .env (archivo para almacenar las claves de API de forma segura)

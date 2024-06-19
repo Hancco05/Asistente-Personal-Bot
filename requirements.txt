@@ -1,0 +1,11 @@
+
+### Contenido del `requirements.txt`
+
+```plaintext
+speechrecognition
+pyttsx3
+pyautogui
+wikipedia-api
+openai
+requests
+python-dotenv
